@@ -1,9 +1,9 @@
-# Users perception and experience of using e-banking apps
+# Users perception and experience of using payment apps
 
 > ## Phase I - User Research
 
 ### 1. Problem statement
-Our study aims to understand users' perceptions and experiences regarding **e-banking apps.** We seek to identify challenges users face, gauge satisfaction levels, and pinpoint areas for improvement in existing e-banking platforms. Additionally, we aim to investigate users' preferences for online transactions, their app usage patterns, preferred features, types of businesses they engage with using these apps, and the problems they encounter while using them.
+Our study aims to understand users' perceptions and experiences regarding **payment apps.** We seek to identify challenges users face, gauge satisfaction levels, and pinpoint areas for improvement in existing e-banking platforms. Additionally, we aim to investigate users' preferences for online transactions, their app usage patterns, preferred features, types of businesses they engage with using these apps, and the problems they encounter while using them.
 
 ### 2. Methodology
 **Designed questions -> Data collection -> Interpretation of the data and analysis**
