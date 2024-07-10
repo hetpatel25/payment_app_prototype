@@ -63,4 +63,10 @@ Please find our **Figma prototype [here](https://www.figma.com/design/rDXzljo6bV
 
 Additionally, you can watch a 5-minute video explaining the prototype in the attached **"prototype.mp4"** file.
 
+## Team Members:
+- Het Patel (Me)
+- Param Patel
+- Ashish Parmar
+- Jyot Patel
+
 
