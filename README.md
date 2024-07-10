@@ -43,7 +43,7 @@ underscores the increasing significance of e-banking apps in the digital landsca
 emphasizes the importance of continuous enhancement to meet user expectations
 effectively
 
-> ## Phase II - Prototye
+> ## Phase II - Prototype
 
 Based on our conducted user research and findings, we initially developed a paper prototype. Subsequently, we transitioned to creating a Figma prototype.
 
