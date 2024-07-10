@@ -59,7 +59,7 @@ We retained familiar elements from Google Pay to ensure ease of use for our user
  - Easy navigation for frequently used features
  - Added some more features which can make user experience better
 
-Please find our Figma prototype [here]<!--(https://www.figma.com/design/rDXzljo6bVdXSdzgEvQiWT/HCI_Wireframe?node-id=0-1&t=jy7jPXhOXswcDRz0-0)-->. 
+Please find our **Figma prototype [here](https://www.figma.com/design/rDXzljo6bVdXSdzgEvQiWT/HCI_Wireframe?node-id=0-1&t=jy7jPXhOXswcDRz0-0).** 
 
 Additionally, you can watch a 5-minute video explaining the prototype in the attached **"prototype.mp4"** file.
 
